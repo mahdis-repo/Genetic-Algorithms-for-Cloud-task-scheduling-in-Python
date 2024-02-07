@@ -5,8 +5,11 @@ I have also implemented 3 other algorithms: Round Robin, First comes first serve
 The comparison is made by plotting the resluts in an interactive plot.
 
 The main changes applied to our classis simple genetic algorithm is:
-- genearting population based on two algorithms
+- generating population based on two algorithms
 - using two-point crossover and mutation
+
+
+I may soon create another repository implementing other Evolutionary Algorithms such as Ant Colony.
 
 
 
